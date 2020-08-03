@@ -1,4 +1,6 @@
-The problem statement has been taken from Leetcode https://leetcode.com/problems/count-number-of-teams/
+1395. Count Number of Teams
+
+Have a look at the problem statement here  Leetcode https://leetcode.com/problems/count-number-of-teams/
 
 
 
